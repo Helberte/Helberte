@@ -1,4 +1,4 @@
-## Sou Helberte Costa
+## Helberte Costa
  - Desenvolvedor Web
  - CSS
  - HTML
