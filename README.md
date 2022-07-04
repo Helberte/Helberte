@@ -6,6 +6,7 @@
 
 [![](https://img.shields.io/badge/linkedin-helberte-blue)](https://www.linkedin.com/in/helberte-costa-programmer/)
 [![](https://img.shields.io/badge/Gmail-helberte-red)](mailto:helberteads@gmail.com)
+[![](https://img.shields.io/badge/Whatsapp-helberte-yellow)](https://wa.me/556992080440)
 
 
 
