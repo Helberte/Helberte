@@ -1,16 +1,21 @@
-## Olá, Sou Helberte :wave:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
- :heavy_check_mark: Desenvolvedor Web
- 
- :heavy_check_mark: CSS
- 
- :heavy_check_mark: HTML
- 
- :heavy_check_mark: JavaScript
- 
- :heavy_check_mark: PHP
- 
-<!---
-Helberte/Helberte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Olá🙏, Eu Sou Helberte Costa 
+## Desenvolvedor Front End, rumo ao Full Stack 👨‍💻
+
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/helberte-costa-programmer/)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco mais sobre mim...  
+
+```javascript
+const helberte = {
+    Email: "helberteads@gmail.com",
+    technologies:{        
+        fronEnd: ["html", "css", "JavaScript"],
+        mobileApp: "Flutter",
+        database: ["SqlServer","mySql"],
+    }
+}
+```
