@@ -16,7 +16,7 @@
 const helberte = {
     Email: "helberteads@gmail.com",
     technologies:{        
-        fronEnd: ["html", "css", "JavaScript"],
+        fronEnd: ["html", "css", "JavaScript", "React", "Nodejs"],
         mobileApp: "Flutter",
         database: ["SqlServer","mySql"],
     }
