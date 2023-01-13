@@ -15,13 +15,17 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helberte&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/helberte/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helberte&layout=compact&theme=dark&langs_count=8)](https://github.com/helberte/github-readme-stats) -->
-    
-  <a href="https://github.com/helberte/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=helberte&theme=dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Estatísticas" />
-  </a>
-  <a href="https://github.com/helberte/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helberte&layout=compact&theme=dark&langs_count=8&custom_title=Linguagens-mais-utilizadas" />
-  </a>
+   
+   <!--
+   
+<a href="https://github.com/helberte/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=helberte&theme=dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Estatísticas" />
+</a>
+<a href="https://github.com/helberte/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helberte&layout=compact&theme=dark&langs_count=8&custom_title=Linguagens-mais-utilizadas" />
+</a>
+
+  -->
   
 </div>
 
